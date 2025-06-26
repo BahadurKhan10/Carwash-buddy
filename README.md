@@ -33,30 +33,16 @@ Reported Prices + Reviews and Ratings + Top Spotter/Visitor
   <img src="screenshots/img12.png" width="250" />
 </p>
 
----
 
-#### 🧑‍🔧 Carwash Owner Panel (In-App)  
-**In-app interface for owners to manage their listings.**  
-<p align="center">
-  <img src="screenshots/img7.png" width="300" />
-</p>
-
----
-
-#### 🎯 "For You" Page  
+#### Carwash Owner Panel (In-App), "For You" Page, Profile Page,   
 **Personalized suggestions for the user.**  
 <p align="center">
-  <img src="screenshots/img4.png" width="300" />
+  <img src="screenshots/img7.png" width="250" />
+  <img src="screenshots/img4.png" width="250" />
+  <img src="screenshots/img13.png" width="250" />
+
 </p>
 
----
-
-#### 👤 Profile Page  
-<p align="center">
-  <img src="screenshots/img13.png" width="300" />
-</p>
-
----
 
 ### 🚀 Key Highlights
 
