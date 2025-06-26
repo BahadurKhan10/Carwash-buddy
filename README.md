@@ -27,9 +27,9 @@ Nearby shops and their locations on a map, based on the user’s current coordin
 Reported Prices + Reviews and Ratings + Top Spotter/Visitor
 
 <p align="center">
-  <img src="screenshots/img2.png" width="300" />
-  <img src="screenshots/img9.png" width="300" />
-  <img src="screenshots/img12.png" width="300" />
+  <img src="screenshots/img2.png" width="250" />
+  <img src="screenshots/img9.png" width="250" />
+  <img src="screenshots/img12.png" width="250" />
 </p>
 
 ---
