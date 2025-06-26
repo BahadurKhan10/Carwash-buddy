@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/img1.png" width="200" alt="App Logo" />
+  <img src="screenshots/logo.jpg" width="200" alt="App Logo" />
 </p>
 
 # 🚘 Carwash Buddy (Flutter Application)
@@ -16,33 +16,34 @@ Implemented **geohashing** to efficiently store and query latitude/longitude coo
 
 #### 🏠 Home Page  
 **Nearby shops based on the user’s current Longitude and Latitude.**  
-<img src="screenshots/img2.png" width="300" />
+<img src="screenshots/img1.png" width="300" />
 
 ---
 
 #### 🗺️ Map View  
 **Displays nearby car washes on a map based on geolocation.**  
-<img src="screenshots/img3.png" width="300" />
+<img src="screenshots/img8.png" width="300" />
 
 ---
 
 #### 📄 Detail Page – 1  
 **Reported Prices**  
 Visitors can report prices for others to view accurate live pricing.  
-<img src="screenshots/img4.png" width="300" />
+<img src="screenshots/img2.png" width="300" />
 
 ---
 
-#### 🎯 "For You" Page  
-**Personalized suggestions for the user.**  
-<img src="screenshots/img5.png" width="300" />
+#### 🌟 Detail Page – 2  
+**Reviews & Ratings**  
+Visitors can leave reviews and view feedback from others.  
+<img src="screenshots/img9.png" width="300" />
 
 ---
 
 #### 🏆 Detail Page – 3  
 **Top Spotters**  
 Shows most active contributors based on visit count.  
-<img src="screenshots/img6.png" width="300" />
+<img src="screenshots/img12.png" width="300" />
 
 ---
 
@@ -52,15 +53,14 @@ Shows most active contributors based on visit count.
 
 ---
 
-#### 🌟 Detail Page – 2  
-**Reviews & Ratings**  
-Visitors can leave reviews and view feedback from others.  
-<img src="screenshots/img8.png" width="300" />
+#### 🎯 "For You" Page  
+**Personalized suggestions for the user.**  
+<img src="screenshots/img4.png" width="300" />
 
 ---
 
 #### 👤 Profile Page  
-<img src="screenshots/img9.png" width="300" />
+<img src="screenshots/img13.png" width="300" />
 
 ---
 
