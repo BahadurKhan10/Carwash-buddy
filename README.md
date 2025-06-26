@@ -23,24 +23,14 @@ Nearby shops and their locations on a map, based on the user’s current coordin
 </p>
 
 
-#### 📄 Detail Page – 1  
-**Reported Prices**  
-Visitors can report prices for others to view accurate live pricing.  
-<img src="screenshots/img2.png" width="300" />
+#### 📄 Detail Pages 
+Reported Prices + Reviews and Ratings + Top Spotter/Visitor
 
----
-
-#### 🌟 Detail Page – 2  
-**Reviews & Ratings**  
-Visitors can leave reviews and view feedback from others.  
-<img src="screenshots/img9.png" width="300" />
-
----
-
-#### 🏆 Detail Page – 3  
-**Top Spotters**  
-Shows most active contributors based on visit count.  
-<img src="screenshots/img12.png" width="300" />
+<p align="center">
+  <img src="screenshots/img2.png" width="300" />
+  <img src="screenshots/img9.png" width="300" />
+  <img src="screenshots/img12.png" width="300" />
+</p>
 
 ---
 
