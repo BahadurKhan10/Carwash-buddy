@@ -22,8 +22,9 @@ Nearby shops and their locations on a map, based on the user’s current coordin
   <img src="screenshots/img8.png" width="300" />
 </p>
 
+---
 
-#### 📄 Detail Pages 
+#### 📄 Detail Pages  
 Reported Prices + Reviews and Ratings + Top Spotter/Visitor
 
 <p align="center">
@@ -36,18 +37,24 @@ Reported Prices + Reviews and Ratings + Top Spotter/Visitor
 
 #### 🧑‍🔧 Carwash Owner Panel (In-App)  
 **In-app interface for owners to manage their listings.**  
-<img src="screenshots/img7.png" width="300" />
+<p align="center">
+  <img src="screenshots/img7.png" width="300" />
+</p>
 
 ---
 
 #### 🎯 "For You" Page  
 **Personalized suggestions for the user.**  
-<img src="screenshots/img4.png" width="300" />
+<p align="center">
+  <img src="screenshots/img4.png" width="300" />
+</p>
 
 ---
 
 #### 👤 Profile Page  
-<img src="screenshots/img13.png" width="300" />
+<p align="center">
+  <img src="screenshots/img13.png" width="300" />
+</p>
 
 ---
 
