@@ -1,33 +1,75 @@
+<p align="center">
+  <img src="screenshots/img1.png" width="200" alt="App Logo" />
+</p>
 
+# 🚘 Carwash Buddy (Flutter Application)
 
-#  <img src="./screenshots/logo.jpg" width="50"/> Carwash Buddy – Flutter Mobile App
+Developed a Flutter-based app to help users find nearby car washes with real-time user-reported pricing and operational status. Features include map/general views, navigation, and a dedicated web and in-app view for car wash owners to manage listings and updates.  
 
-Carwash Buddy is a Flutter-based mobile application designed to help users find nearby car washes with real-time, community-reported pricing and operational status.
+Tech stack: **Flutter**, **NextJS**, **NodeJS**, **ExpressJS**, **MongoDB**, **AWS**, **Google Maps**, and **Firebase (Google & Facebook auth).**
 
-## 🔍 Key Features
+Implemented **geohashing** to efficiently store and query latitude/longitude coordinates, enabling fast and accurate **nearby search functionality.**
 
-- 📍 **Nearby Car Wash Discovery** with distance calculation
-- ⭐ User rating system
-- 🗺️ Map and list views
-- 👨‍🔧 Car wash owner dashboard (web and mobile)
-- 🧠 **Geohashing**-based storage and **nearby query optimization** for location filtering
-- 🔐 Google and Facebook login via Firebase Auth
-- 💬 Real-time updates and listing management
+---
 
-## 🧰 Tech Stack
+### 📸 Screenshots
 
-- **Frontend (Mobile)**: Flutter
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB (with geohashing)
-- **Auth**: Firebase Auth (Google & Facebook)
-- **Maps & Location**: Google Maps API
-- **Hosting**: AWS EC2 / S3
-- **Admin Panel**: Next.js (for car wash owners)
+#### 🏠 Home Page  
+**Nearby shops based on the user’s current Longitude and Latitude.**  
+<img src="screenshots/img2.png" width="300" />
 
-## 📸 Screenshots
+---
 
-| Nearby List View |
-|------------------|
-| <img src="screenshots/nearby-shops.png" width="300"/> |
+#### 🗺️ Map View  
+**Displays nearby car washes on a map based on geolocation.**  
+<img src="screenshots/img3.png" width="300" />
 
+---
 
+#### 📄 Detail Page – 1  
+**Reported Prices**  
+Visitors can report prices for others to view accurate live pricing.  
+<img src="screenshots/img4.png" width="300" />
+
+---
+
+#### 🎯 "For You" Page  
+**Personalized suggestions for the user.**  
+<img src="screenshots/img5.png" width="300" />
+
+---
+
+#### 🏆 Detail Page – 3  
+**Top Spotters**  
+Shows most active contributors based on visit count.  
+<img src="screenshots/img6.png" width="300" />
+
+---
+
+#### 🧑‍🔧 Carwash Owner Panel (In-App)  
+**In-app interface for owners to manage their listings.**  
+<img src="screenshots/img7.png" width="300" />
+
+---
+
+#### 🌟 Detail Page – 2  
+**Reviews & Ratings**  
+Visitors can leave reviews and view feedback from others.  
+<img src="screenshots/img8.png" width="300" />
+
+---
+
+#### 👤 Profile Page  
+<img src="screenshots/img9.png" width="300" />
+
+---
+
+### 🚀 Key Highlights
+
+- Location-based filtering using geohashing
+- Owner and user interfaces
+- Firebase Google & Facebook authentication
+- MongoDB geospatial queries for nearby search
+- Fully responsive UI in Flutter
+
+---
