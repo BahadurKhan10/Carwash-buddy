@@ -1,6 +1,6 @@
 
 
-#  <img src="./screenshots/logo.jpg" width="100"/> Carwash Buddy – Flutter Mobile App
+#  <img src="./screenshots/logo.jpg" width="50"/> Carwash Buddy – Flutter Mobile App
 
 Carwash Buddy is a Flutter-based mobile application designed to help users find nearby car washes with real-time, community-reported pricing and operational status.
 
