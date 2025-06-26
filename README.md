@@ -1,4 +1,4 @@
- <img src="screenshots/logo.png" width="300"/>
+ <img src="./screenshots/logo.jpg" width="300"/>
 
 # 🚗 Carwash Buddy – Flutter Mobile App
 
