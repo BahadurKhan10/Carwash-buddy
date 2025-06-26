@@ -35,7 +35,6 @@ Reported Prices + Reviews and Ratings + Top Spotter/Visitor
 
 
 #### Carwash Owner Panel (In-App), "For You" Page, Profile Page,   
-**Personalized suggestions for the user.**  
 <p align="center">
   <img src="screenshots/img7.png" width="250" />
   <img src="screenshots/img4.png" width="250" />
