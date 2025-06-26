@@ -14,17 +14,14 @@ Implemented **geohashing** to efficiently store and query latitude/longitude coo
 
 ### 📸 Screenshots
 
-#### 🏠 Home Page  
-**Nearby shops based on the user’s current Longitude and Latitude.**  
-<img src="screenshots/img1.png" width="300" />
+#### 🏠 Home Page + 🗺️ Map View  
+Nearby shops and their locations on a map, based on the user’s current coordinates.
 
----
+<p align="center">
+  <img src="screenshots/img1.png" width="300" />
+  <img src="screenshots/img8.png" width="300" />
+</p>
 
-#### 🗺️ Map View  
-**Displays nearby car washes on a map based on geolocation.**  
-<img src="screenshots/img8.png" width="300" />
-
----
 
 #### 📄 Detail Page – 1  
 **Reported Prices**  
